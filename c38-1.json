@@ -1,0 +1,15 @@
+{
+  "AdsController": {
+    "adNetwork": "mixed",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "applovinBanner": "",
+    "applovinInterstitial": "XXXInterstitualOnlyXXX",
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
+    "modeads": false,
+    "IMG1_URL": "https://c30.netlify.app/c30-XX.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX"
+  }
+}
