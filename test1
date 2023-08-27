@@ -1,0 +1,18 @@
+{
+  "AdsController": {
+    "adNetwork": "facebook",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "applovinBanner": "",
+    "applovinInterstitial": "",
+    "ApplovinNative": "",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": "",
+    "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbInterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  }
+}
