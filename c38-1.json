@@ -12,7 +12,7 @@
     "unityBanner": "",
     "unityInterstitial": "",
     "ratingactive": true,
-    "appsuspand": false,
+    "appsuspand": true,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
     "modeads": true,
     "IMG1_URL": "https://c30.netlify.app/c30-1.png",
