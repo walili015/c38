@@ -13,7 +13,7 @@
     "unityInterstitial": "",
     "ratingactive": true,
     
-    "appsuspand": true,
+    "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
     
     "modeads": false,
