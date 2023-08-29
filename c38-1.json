@@ -12,11 +12,14 @@
     "unityBanner": "",
     "unityInterstitial": "",
     "ratingactive": true,
+    
     "appsuspand": true,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
-    "modeads": true,
-    "IMG1_URL": "https://c30.netlify.app/c30-1.png",
+    
+    "modeads": false,
+    "IMG1_URL": "https://c38.netlify.app/c38-1.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX",
+    
     "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbInterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
