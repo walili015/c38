@@ -16,7 +16,7 @@
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
     
-    "modeads": false,
+    "modeads": true,
     "IMG1_URL": "https://c38.netlify.app/c38-1.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX",
     
