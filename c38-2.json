@@ -1,19 +1,19 @@
 {
   "AdsController": {
-    "adNetwork": "facebook",
+    "adNetwork": "applovin",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-    "applovinBanner": "",
-    "applovinInterstitial": "",
-    "ApplovinNative": "",
+    "applovinBanner": "1111111",
+    "applovinInterstitial": "22222",
+    "ApplovinNative": "33333",
     "unityGameId": "",
     "testMode": false,
     "unityBanner": "",
     "unityInterstitial": "",
     "ratingactive": true,
     
-    "appsuspand": true,
+    "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
     
     "modeads": false,
