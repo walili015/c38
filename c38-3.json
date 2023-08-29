@@ -1,15 +1,27 @@
 {
   "AdsController": {
-    "adNetwork": "mixed",
-    "admobBanner": "",
-    "admobInterstitial": "",
+    "adNetwork": "facebook",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
     "applovinBanner": "",
-    "applovinInterstitial": "XXXInterstitualOnlyXXX",
+    "applovinInterstitial": "",
+    "ApplovinNative": "",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": "",
     "ratingactive": true,
-    "appsuspand": false,
+    
+    "appsuspand": true,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
+    
     "modeads": false,
-    "IMG1_URL": "https://c30.netlify.app/c30-XX.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX"
+    "IMG1_URL": "https://c38.netlify.app/c38-1.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXX",
+    
+    "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbInterstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   }
 }
